@@ -18,3 +18,17 @@ Open the shell and type the following:
 npx create-react-app my-app  
 cd my-app  
 npm start  
+
+# TypeScript
+
+https://www.typescriptlang.org/
+
+To install it for specific project run: 'npm install typescript'.  
+To install it for the whole system run: 'npm install -g typescript'.  
+
+TypeScript code needs to be compiled to the JavaScript before running.
+
+To invoke compiler run: 'npx tsc filename.ts'.  
+
+You will get filename.js produced which can be run with lets say node.
+
