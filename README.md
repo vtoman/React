@@ -32,3 +32,8 @@ To invoke compiler run: 'npx tsc filename.ts'.
 
 You will get filename.js produced which can be run with lets say node.
 
+# React + TypeScript
+
+Open the shell and type the following:
+
+npx create-react-app my-app --template typescript
